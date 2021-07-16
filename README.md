@@ -13,7 +13,10 @@
 
 |         게시물          |    날짜    | 글쓴이 |
 | :---------------------: | :--------: | :----: |
-| [자바스크립트의 기초]() | 2021-07-10 |  Tami  |
+| [자바스크립트란?](https://github.com/ModernJavaScriptDeepDive/ModernJavaScriptDeepDive/blob/main/week1/ch02/dd.md) | 2021-07-11 |  DD  |
+| [변수](https://github.com/ModernJavaScriptDeepDive/ModernJavaScriptDeepDive/blob/main/week1/ch04/roach.md) | 2021-07-11 |  Roach  |
+| [표현식과문](https://github.com/ModernJavaScriptDeepDive/ModernJavaScriptDeepDive/blob/main/week1/ch05/autumn.md) | 2021-07-11 |  Autumn  |
+| [데이터 타입](https://github.com/ModernJavaScriptDeepDive/ModernJavaScriptDeepDive/blob/main/week1/ch06/json.md) | 2021-07-11 |  Json  |
 
 <br>
 
