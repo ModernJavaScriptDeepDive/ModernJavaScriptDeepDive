@@ -1,4 +1,4 @@
-# 27장. 배열
+# [27장. 배열](https://hongbi.notion.site/27-cde146e5b2bc40a4a5f583e579c2beee)
 
 ## 1. 배열이란?
 
