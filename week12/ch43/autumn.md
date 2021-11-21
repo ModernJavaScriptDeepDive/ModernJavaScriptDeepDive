@@ -1,1 +1,1 @@
-## [43장. Ajax](https://hongbi.notion.site/45-0e4cb8befa824da8996d8c26158550b0)
+## [43장. Ajax](https://hongbi.notion.site/43-Ajax-0368a61097944ea68d936271956ae33d)
